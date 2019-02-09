@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="48px" viewBox="0 0 32 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect id="mouse" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" x="1" y="1" width="30" height="46" rx="14"></rect>
+    <path id="scroll" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" d="M16,10.5 L16,18.5">
+        <animate attributeName="stroke-dashoffset" dur="2s" repeatCount="indefinite" from="500" to="0"></animate>
+        <animate attributeName="stroke-dasharray" dur="2s" repeatCount="indefinite" values="150 100"></animate>
+    </path>
+</svg>

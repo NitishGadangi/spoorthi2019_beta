@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="26px" viewBox="0 0 10 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_angle_right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Palestrantes" transform="translate(-291.000000, -113.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <polygon id="ic_angle_right" transform="translate(296.000000, 125.907550) rotate(90.000000) translate(-296.000000, -125.907550) " points="307.72265 130.416025 308.27735 129.583975 296 121.399075 283.72265 129.583975 284.27735 130.416025 296 122.600925"></polygon>
+        </g>
+    </g>
+</svg>
