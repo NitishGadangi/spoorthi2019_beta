@@ -22,7 +22,7 @@ header .head .logo {
 }
 h1 {
 	color: aliceblue;
-	font-family: HEADPLANE;
+	font-family: 'headplane';
 }
 header .head .logo .svgTEDx {
 	width: 100%;
