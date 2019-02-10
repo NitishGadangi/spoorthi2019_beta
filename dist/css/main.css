@@ -254,7 +254,7 @@ header .head .navbar ul {
 }
 body {
 	font-family: 'Helvetica', 'Arial', 'Open Sans';
-	background-color: #CBCBCB;
+	background-color: #1B1B1B;
 	overflow-x: hidden
 }
 .modalInscricaoEncerrada {
@@ -557,11 +557,11 @@ body {
 }
 .aboutSection .contentText h2 {
 	font-size: 2.5rem;
-	color: #000
+	color: #222
 }
 .aboutSection .contentText p {
 	font-size: 1.8rem;
-	color: #000
+	color: #222
 }
 .aboutSection .contentLogo {
 	width: 100%;
@@ -764,7 +764,7 @@ left:calc(50% - -80px)
 	height: 100vh
 }
 .contactSection {
-	background-color: #CBCBCB
+	background-color: #1F262A
 }
 
 @media (max-width: 950px) {
